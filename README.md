@@ -1,4 +1,4 @@
-# Crappy_Lane_Detection
+/LICENSE# Crappy_Lane_Detection
 An open-source Python project to provide a suggested driving path for a car.
 
 ![Demo](https://media.giphy.com/media/kbuDItasGI6JbqUYmM/giphy.gif)
@@ -27,7 +27,9 @@ python3 main.py
 
 ## Built With
 [OpenCV](https://github.com/opencv/opencv) -- An Open Source Machine Vision Library
+
 [Numpy](https://github.com/numpy/numpy) -- A fundamental package needed for scientific computing with Python.
+
 Love -- A necessary emotion.
 
 ## License
