@@ -1,7 +1,7 @@
 # Crappy_Lane_Detection
 An open-source Python project to provide a suggested driving path for a car.
 
-![Demo](https://gfycat.com/inexperiencedheartygadwall)
+![Demo](https://media.giphy.com/media/kbuDItasGI6JbqUYmM/giphy.gif)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
