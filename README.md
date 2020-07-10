@@ -1,4 +1,4 @@
-/LICENSE# Crappy_Lane_Detection
+# Crappy Lane Detection
 An open-source Python project to provide a suggested driving path for a car.
 
 ![Demo](https://media.giphy.com/media/kbuDItasGI6JbqUYmM/giphy.gif)
